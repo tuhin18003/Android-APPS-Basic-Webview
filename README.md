@@ -1,2 +1,2 @@
 # Android-APPS-Navigation-Fragment-Controller
-Android application - convert a website to an APP
+Android application - Basic Navigation Controller
